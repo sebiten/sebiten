@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello!👋 My name is Sergio Sebastián Burgos, I am passionate about technology, I have knowledge in advanced English and I am a business administration technician. My motivation is based on constant growth. Lover of new challenges. I learned to enjoy the process and I am a very competitive person since I was kid, I like teamwork as well as individual work, fast learning. I am looking for opportunities to work, teach and learn as a team. If my profile caught your attention, do not hesitate to contact me, I am always open to hearing new opportunities!
+Sebastian Burgos - Front end Developer.
+
+Pagina web: https://sebdev.netlify.app/
 <!--
 **sebiten/sebiten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
