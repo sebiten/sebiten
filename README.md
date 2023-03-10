@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<img src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" alt="postman" width="40" height="40"/>
+<img src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" alt="postman" width="400" height="400" align="center"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebiten&label=Profile%20views&color=0e75b6&style=flat" alt="sebiten" /> </p>
 
