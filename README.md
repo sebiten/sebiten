@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sebitenb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sebitenb" height="30" width="40" /></a>
+<a href="https://dev.to/https://sebdev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://sebdev.netlify.app/" height="30" width="40" /></a>
+<a href="https://twitter.com/sebitenb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebitenb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sebdevspace/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebdevspace/" height="30" width="40" /></a>
 </p>
 
