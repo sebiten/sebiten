@@ -4,13 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebiten&label=Profile%20views&color=0e75b6&style=flat" alt="sebiten" /> </p>
 
-- 🔭 I’m currently working on [TaHause](https://dev.tahouse.casa/)
 
 - 🌱 I’m currently learning **Next Js, MongoDB, Stripe.**
 
-- 👨‍💻 All of my projects are available at [https://sebdev.netlify.app/](https://sebdev.netlify.app/)
-
-- 💬 Ask me about **React, CSS, HTML5**
+- 👨‍💻 All of my projects are available at [https://sebdevspace.me/](https://sebdevspace.me/)
 
 - 📫 How to reach me **sebdevspace@gmail.com**
 
