@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebiten&label=Profile%20views&color=0e75b6&style=flat" alt="sebiten" /> </p>
 
 
-- 🌱 I’m currently learning **Next Js, MongoDB, Stripe.**
+- 🌱 I’m currently learning **Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://sebdevspace.me/](https://sebdevspace.me/)
 
