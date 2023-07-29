@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sebdevspace.me/](https://sebdevspace.me/)
 
-- Check my blog![https://abelardo.blog/](https://abelardo.blog/)
+- Check my blog! [https://abelardo.blog/](https://abelardo.blog/)
 
 - 📫 How to reach me **sebdevspace@gmail.com**
 
