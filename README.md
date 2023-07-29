@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://sebdevspace.me/](https://sebdevspace.me/)
 
+- Check my blog![https://abelardo.blog/](https://abelardo.blog/)
+
 - 📫 How to reach me **sebdevspace@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Lmhje7JcUTIgETcmu20xYkKCOsUIWOM9/view?usp=sharing](https://drive.google.com/file/d/1Lmhje7JcUTIgETcmu20xYkKCOsUIWOM9/view?usp=sharing)
