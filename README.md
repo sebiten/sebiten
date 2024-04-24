@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript.**
 
-- 👨‍💻 All of my projects are available at [https://sebdevspace.me/](https://sebdevspace.me/)
+- 👨‍💻 Portfolio [https://sebdevspace.me/](https://sebdevspace.me/)
 
 - Check my blog! [https://abelardo.blog/](https://abelardo.blog/)
 
