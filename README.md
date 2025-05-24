@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Typescript.**
 
 - 👨‍💻 Portfolio [https://sebdevspace.me/](https://sebdevspace.me/)
-
+- 📜 Crea tu cv con inteligencia artificial, optimizado para ats.[https://vitaespark.com/](https://vitaespark.com/)
 - 📫 How to reach me **sebdevspace@gmail.com**
 
 
